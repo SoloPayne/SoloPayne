@@ -14,5 +14,7 @@ I am Google-certified UX Designer and Frontend Developer with 7+ years of experi
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoloPayne&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=SoloPayne&theme=radical)
 
 
-![LinkedIn]([https://img.shields.io/badge/Tools-Adobe%20XD-blue?style=flat-square&logo=adobe](https://www.linkedin.com/in/solomon-oni-38763112a/))
-![Github]([https://visitor-badge.glitch.me/badge?page_id=SoloPayne](https://github.com/SoloPayne/SoloPayne))
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/SoloPayne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/SoloPayne/)
+[![Behance](https://img.shields.io/badge/Behance-blue?style=flat-square&logo=behance)](https://www.behance.net/payneoni)
+
