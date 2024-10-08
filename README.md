@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoloPayne&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=SoloPayne&theme=radical)
+
+
+- 🌐 Portfolio: [Your Website](https://solomononi.com)
+- 📧 Email: [solomonooni@gmail.com](mailto:solomonooni@gmail.com)
+
+![Tools](https://img.shields.io/badge/Tools-Adobe%20XD-blue?style=flat-square&logo=adobe)
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SoloPayne)
