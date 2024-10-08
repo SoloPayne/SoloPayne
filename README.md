@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **SoloPayne/SoloPayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SoloPayne&show_icons=true&theme=radical) ![GitHub Streak](https://streak-stats.demolab.com/?user=SoloPayne&theme=radical)
 
