@@ -22,5 +22,5 @@ I am Google-certified UX Designer and Frontend Developer with 7+ years of experi
 
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/SoloPayne)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/SoloPayne/)
-[![Behance](https://img.shields.io/badge/Behance-pink?style=flat-square&logo=behance)](https://www.behance.net/payneoni)
+[![Behance](https://img.shields.io/badge/#0057ff?style=flat-square&logo=behance)](https://www.behance.net/payneoni)
 
